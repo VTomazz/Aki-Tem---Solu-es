@@ -1,4 +1,4 @@
-Projeto de um site usando HTML, CSS e Javascript de uma loja de materiais para construção chamada "Aki Tem Soluções".
+Primeiro projeto de um site usando HTML, CSS e Javascript de uma loja de materiais para construção chamada "Aki Tem Soluções".
 Este é um projeto feito durante um curso de Front-end iniciando do zero, e com o decorrer do curso fui aprimorando com mais conhecimentos este projeto.
 
 A empresa fez o pedido de criar um site onde teria:
